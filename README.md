@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/himagna_mallik" target="blank"><img src="https://img.shields.io/twitter/follow/himagna_mallik?logo=twitter&style=for-the-badge" alt="himagna_mallik" /></a> </p>
 
-- 🔭 I’m Pursuing B.Tech in **CSE**
+- 🔭 I’m Pursuing B.Tech in **CSE-AIML**
 
-- 👨‍💻 All of my projects are available at [https://www.iamhimu.ml/](https://www.iamhimu.ml/)
+- 👨‍💻 All of my projects are available at [https://devhimu.github.io](https://devhimu.github.io)
 
-- or, [https://devhimu.github.io](https://devhimu.github.io)
-
-- 📫 How to reach me **hmalllik12345@gmail.com**
+- 📫 How to reach me **mallik.himagna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
